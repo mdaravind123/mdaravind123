@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaravind123&label=Profile%20views&color=0e75b6&style=flat" alt="mdaravind123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdaravind123" alt="mdaravind123" /></a> </p>
+🌱 I’m currently learning ReactJs and TypeScript
 
-- 👨‍💻 All of my projects are available at [https://github.com/mdaravind123](https://github.com/mdaravind123)
+👨‍💻 All of my projects are available at [https://github.com/mdaravind123](https://github.com/mdaravind123)
 
-- 💬 Ask me about **Python, JavaScript , C++ , SQL**
+💬 Ask me about Python, JavaScript , C++ , SQL
 
-- 📫 How to reach me **mdaravind2004@gmail.com**
+📫 How to reach me mdaravind2004@gmail.com
 
-- ⚡ Fun fact **World around us is an illusion**
+👯 I’m looking to collaborate on Open Source Projects
+
+⚡ Fun fact: World around you is an illusion
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
